@@ -19,4 +19,4 @@ This sample project was created for my [blog post][1] and it shows how to overco
     See the License for the specific language governing permissions and
     limitations under the License.
 
-[1]: http://nocturnaldev.com/2013/01/18/marking-incorrectly-filled-fields-in-forms-on-android/
+[1]: http://nocturnaldev.com/2013/09/01/parcelable-in-pendingintent/
