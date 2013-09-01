@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Parcelable in PendingIntent</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="send_unsafe">Send in PendingIntent</string>
+    <string name="send_safe">Send inside Bundle</string>
+    <string name="intro">Send Parcelable to Broadcast</string>
+
+</resources>
